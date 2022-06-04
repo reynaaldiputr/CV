@@ -1,0 +1,62 @@
+body {
+  background-color: #F1F0C0;
+}
+
+hr {
+  border-width: 5px;
+  border-color: #C2DED1;
+  border-style: dotted none none;
+  width: 80%
+}
+
+img {
+  height: 200px
+}
+
+p {
+  font-family: cursive;
+  text-align: justify;
+}
+
+h1 {
+  color: #3BACB6;
+  font-family: cursive;
+  font-size: 30px
+}
+
+h1:hover {
+  color: #5FD068;
+  font-family: cursive;
+  font-size: 30px
+}
+
+h3 {
+  color: #3BACB6;
+  font-family: cursive;
+  text-align: center;
+}
+
+h3:hover {
+  color: #5FD068;
+  font-family: cursive;
+}
+
+tr {
+  font-family: cursive
+}
+
+ul {
+  font-family: cursive
+}
+
+input {
+  background-color: #C2DED1
+}
+
+textarea {
+  background-color: #C2DED1
+}
+
+a {
+  text-decoration: none;
+}
